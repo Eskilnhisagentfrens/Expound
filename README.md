@@ -1,7 +1,7 @@
 # Expound
 
 > **From AI Ambition to AI Reality.**
-> **Expound Open Labs** — the engineering & open-source research arm of Expound. Hallucination Hedging frameworks, gate-based QA, and Skill/Agent design patterns for reliable AI systems.
+> The engineering arm of Expound — Hallucination Hedging frameworks, gate-based QA, and Skill/Agent design patterns for reliable AI systems.
 
 🌐 **Website:** [expoundlabs.io](https://expoundlabs.io) · 🧭 **Theory:** [FLCA framework](https://github.com/EskilXu/FLCA) · 📬 **Contact:** eskil [at] expoundlabs [dot] io
 
@@ -26,7 +26,7 @@ Every engagement is grounded in cognitive architecture — not hype cycles. See 
 
 ## This Repository
 
-This repo is **Expound Open Labs** — the engineering & open-source research arm behind Expound. It hosts the practical artifacts that come out of FLCA-informed work:
+This repo is the **engineering & open-source lab** behind Expound. It hosts the practical artifacts that come out of FLCA-informed work:
 
 - **Hallucination Hedging** — engineering patterns for catching what LLMs get confidently wrong
 - **Workflows** — opinionated, verification-first playbooks for serious knowledge work with Claude
@@ -47,7 +47,7 @@ That gap is the d/acc accessibility problem. It's also a strategic problem: a fr
 
 ## What the workflows collection is
 
-Open Labs publishes a curated, opinionated set of verification-first playbooks for using Anthropic's Claude (and adjacent agentic AI tools) on serious work — research, drafting, decision support, knowledge management, contract review, market analysis. Not "10 cool ChatGPT tricks." Instead:
+`Expound` is a curated, opinionated guide collection for non-technical users to **actually use** Anthropic's Claude (and adjacent agentic AI tools) for serious work — research, drafting, decision support, knowledge management, contract review, market analysis. It's not "10 cool ChatGPT tricks." It's:
 
 - **Workflows that mirror how a thoughtful professional already works** — adapted to incorporate Claude as a collaborator, not as a replacement.
 - **Verification practices baked in** — every workflow has an explicit "where does Claude lie to you, and how do you catch it" section.
@@ -66,8 +66,8 @@ Open Labs publishes a curated, opinionated set of verification-first playbooks f
 ## What it's NOT
 
 - ❌ A "use AI to replace your job" promise — agentic AI doesn't replace knowledge work, it changes the verification budget for knowledge work
-- ❌ Anthropic-affiliated, official, or endorsed — Expound builds heavily on Claude and respects Anthropic's published methodology, but is independent and not endorsed by Anthropic
-- ❌ A code course — these are usage playbooks, not programming tutorials; most run in Claude.ai with zero install
+- ❌ Anthropic-affiliated, official, or endorsed — I'm a heavy Claude user and I respect Anthropic's published methodology, but this is independent
+- ❌ A code course — this assumes zero programming and stays there
 - ❌ Hype — every workflow is boring and works, or it's not in the collection
 
 ## Status
