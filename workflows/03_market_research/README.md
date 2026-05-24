@@ -29,4 +29,4 @@ This workflow will build on that distinction.
 
 ---
 
-*Expected: Q4 2026. If you do market research professionally and want to co-author this, please open an issue or email eskilca2024 [at] gmail [dot] com.*
+*Expected: Q4 2026. If you do market research professionally and want to co-author this, please open an issue or email eskil [at] expoundlabs [dot] io.*
