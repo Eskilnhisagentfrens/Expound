@@ -3,7 +3,7 @@
 > **From AI Ambition to AI Reality.**
 > The engineering arm of Expound — Hallucination Hedging frameworks, gate-based QA, and Skill/Agent design patterns for reliable AI systems.
 
-🌐 **Website:** [expoundlabs.io](https://expoundlabs.io) · 🧭 **Theory:** [FLCA framework](https://github.com/EskilXu/FLCA) · 📬 **Contact:** eskilca2024 [at] gmail [dot] com
+🌐 **Website:** [expoundlabs.io](https://expoundlabs.io) · 🧭 **Theory:** [FLCA framework](https://github.com/EskilXu/FLCA) · 📬 **Contact:** eskil [at] expoundlabs [dot] io
 
 [![Status](https://img.shields.io/badge/status-active-green)]() [![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue)]() [![Framework](https://img.shields.io/badge/framework-FLCA-blue)]()
 
@@ -109,7 +109,7 @@ CC BY 4.0. Use, adapt, redistribute, including commercially. Attribution require
 
 ## Connect
 
-- 📧 eskilca2024 [at] gmail [dot] com
+- 📧 eskil [at] expoundlabs [dot] io
 - 💼 [LinkedIn](https://www.linkedin.com/in/yufeng-xu-9856a716/)
 - 🐦 [@infinitegardenX](https://x.com/infinitegardenX)
 

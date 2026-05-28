@@ -43,4 +43,4 @@ That's d/acc accessibility, in practice.
 ---
 
 *— Eskil (Yufeng Xu), Tokyo, 2026*
-*[github.com/EskilXu](https://github.com/EskilXu) · eskilca2024 [at] gmail [dot] com*
+*[github.com/EskilXu](https://github.com/EskilXu) · eskil [at] expoundlabs [dot] io*

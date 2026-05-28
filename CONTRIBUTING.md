@@ -14,7 +14,7 @@ If you found a step in a workflow where Claude's output looked right but wasn't 
 If you've used a workflow in a professional context — law, medicine, education, finance, policy, journalism — and you're willing to document it (anonymized if needed), open a PR or issue. Real examples from real professionals are more valuable than polished hypotheticals.
 
 **4. Vertical co-authorship**
-If you have deep domain expertise (legal, medical, financial, educational) and want to co-author a workflow specific to that domain, please reach out directly: eskilca2024 [at] gmail [dot] com. I want these to be built with domain experts, not written by me speculating about their workflows.
+If you have deep domain expertise (legal, medical, financial, educational) and want to co-author a workflow specific to that domain, please reach out directly: eskil [at] expoundlabs [dot] io. I want these to be built with domain experts, not written by me speculating about their workflows.
 
 **5. Translations**
 The target audience is global. If you can translate a workflow into another language faithfully, including the verification gates, please open a PR.
@@ -49,4 +49,4 @@ By contributing, you agree your contributions will be licensed under CC BY 4.0 �
 
 ---
 
-Questions? Open an issue or email eskilca2024 [at] gmail [dot] com.
+Questions? Open an issue or email eskil [at] expoundlabs [dot] io.

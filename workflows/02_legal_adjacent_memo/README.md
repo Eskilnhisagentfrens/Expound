@@ -27,4 +27,4 @@ It will not produce legal advice. It will not replace a lawyer for any document 
 
 ---
 
-*Expected: Q3 2026. If you have domain expertise in legal workflow and want to co-author this, please open an issue or email eskilca2024 [at] gmail [dot] com.*
+*Expected: Q3 2026. If you have domain expertise in legal workflow and want to co-author this, please open an issue or email eskil [at] expoundlabs [dot] io.*
