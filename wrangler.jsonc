@@ -10,5 +10,9 @@
   },
   "compatibility_flags": [
     "nodejs_compat"
+  ],
+  "routes": [
+    { "pattern": "expoundlabs.io",     "custom_domain": true },
+    { "pattern": "www.expoundlabs.io", "custom_domain": true }
   ]
 }
